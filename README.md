@@ -1,7 +1,5 @@
-```
-# AIRBNB_CLONE
+# AirBnB Clone - The Console
 
-```
 
 ## DESCRIPTION
 
